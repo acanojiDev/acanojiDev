@@ -20,7 +20,7 @@
   </p>
 </details>
 
-<h2>:bulb: Languages & Frameworks I code in</h2>
+## :bulb: Languages & Frameworks I code in
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
@@ -32,6 +32,20 @@
 <code> <img title="BootStrap" alt="bootstrap" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" /></code>
 </br></br>
 
+## :hammer_and_wrench: Technologies I use
+<code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="Google" alt="google" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/google/google-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" /></code>
+<code><img title="Linux" alt="linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+<code><img title="Figma" alt="figma" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" /></code>
+<code><img title="Adobe Xd" alt="adobe xd" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/xd/xd-original.svg" /></code>
+<code><img title="Maven" alt="maven" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/maven/maven-original.svg" /></code>
+<code><img title="Notion" alt="notion" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/notion/notion-original.svg" /></code>
+<code><img title="Slack" alt="slack" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/slack/slack-original.svg" /></code>
+</br></br>
 
 <!-- Current Project Section -->
 ## 💻 Current Project
