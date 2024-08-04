@@ -60,7 +60,7 @@
 <!-- How to Reach Me Section -->
 ## 📫 How to Reach Me
 
-You can reach out to me at [vicoder.tech@gmail.com](mailto:vicoder.tech@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vcodrean/)
+You can reach out to me at [aantoniiocano@gmail.com](mailto:aantoniiocano@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/!!añadir/)
 
 <!-- Social Media Section -->
 ## 🌐 Connect with Me
@@ -69,9 +69,6 @@ You can reach out to me at [vicoder.tech@gmail.com](mailto:vicoder.tech@gmail.co
   <a href="https://www.linkedin.com/in/vcodrean/" target="_blank" ><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="LinkedIn"></a>
 </div>
 
-<div align="center">
-  <h3>Show some ❤️ by starring some of my repositories!</h3>
-</div>
 
 <!-- Footer Section -->
 <p align="center">
