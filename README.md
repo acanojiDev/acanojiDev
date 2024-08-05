@@ -51,7 +51,7 @@
 <!-- Current Project Section -->
 ## 💻 Current Project
 
-- 🔗 Check out my latest project [here](https://github.com/aantoniolorenzo/<!--añadir-->).
+- 🔗 Check out my latest project [here](https://github.com/aantoniolorenzo/PortFolio).
 
 <!-- Learning Section -->
 ## 📚 Learning
