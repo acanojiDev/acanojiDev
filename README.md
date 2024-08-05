@@ -61,7 +61,7 @@
 <!-- How to Reach Me Section -->
 ## 📫 How to Reach Me
 
-You can reach out to me at [aantoniiocano@gmail.com](gmail:aantoniiocano@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/!!añadir/)
+You can reach out to me at [aantoniiocano@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvlqLlZwxWPqDCjCLjDgTKwmjNjvTtjtfjdmCnNCSNTbLxlwqWPJKdxnkBXhWqTHXmdCKg) or connect with me on [LinkedIn](https://www.linkedin.com/in/!!añadir/)
 
 <!-- Social Media Section -->
 ## 🌐 Connect with Me
