@@ -3,7 +3,8 @@
 <!-- About Me Section -->
 ## 💬 About Me
 
-- 🎓 Currently studying at 42 Málaga and at CPIFP Alan Turing.
+- 🌍 I´m from Málaga, Spain.
+- 🎓 Currently studying at 42 Málaga and multi-platform applications development at CPIFP Alan Turing.
 - 💻 Most interesting in Full Stack development.
 
 <!-- GitHub Stats Section -->
