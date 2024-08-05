@@ -16,7 +16,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantoniolorenzo&layout=compact&theme=algolia&hide_border=true" alt="Top Languages">
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vittoric&show_icons=true&hide_border=true&theme=algolia" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=aantoniolorenzo&show_icons=true&hide_border=true&theme=algolia" alt="GitHub Stats">
   </p>
 </details>
 
