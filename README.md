@@ -28,7 +28,7 @@
 <code><img title="Java" alt="java" width="35px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" /></code>
 <code><img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img title="C++" alt="c++" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" /></code>
-<code><img title="SQL" alt="sql" width="35px" src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" /></code>
+<code><img title="SQL" alt="sql" width="40px" src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" /></code>
 <code> <img title="Markdown" alt="markdown" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/markdown/markdown-original.svg" /></code>
 <code> <img title="BootStrap" alt="bootstrap" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" /></code>
 </br></br>
