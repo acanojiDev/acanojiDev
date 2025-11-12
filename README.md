@@ -1,6 +1,4 @@
-<!-- Welcome Section -->
-
-<img width="2000" height="600" alt="Red Modern Business LinkedIn Article Cover Image (2)" src="https://github.com/user-attachments/assets/7cbc7da4-3302-45f5-85e0-05f8ecd5eb88" />
+<img width="2000" height="600" alt="Red Modern Business LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/ec7d7720-d6c4-4583-a449-f660af189892" /><!-- Welcome Section -->
 
 
 
