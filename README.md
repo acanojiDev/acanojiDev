@@ -1,11 +1,28 @@
 <!-- Welcome Section -->
 
+<img width="2000" height="600" alt="Red Modern Business LinkedIn Article Cover Image (2)" src="https://github.com/user-attachments/assets/7cbc7da4-3302-45f5-85e0-05f8ecd5eb88" />
+
+
+
 <!-- About Me Section -->
 ## 💬 About Me
 
-- 🌍 I´m from Málaga, Spain.
-- 🎓 Currently studying at 42 Málaga and multi-platform applications development at CPIFP Alan Turing.
-- 💻 Most interesting in Full Stack development.
+Full Stack Developer in training, passionate about building web applications <br> and solving problems through code. Currently expanding my knowledge in <br> modern web technologies and software development practices.
+
+```typescript
+const antonio = {
+    location: "Málaga, Spain 🌍",
+    education: [
+        "42 Málaga - Software Engineering",
+        "Multi-platform App Development - CPIFP Alan Turing",
+        "Professional Certificate in Web Development"
+    ],
+    focus: "Full Stack Development",
+    currentStatus: "Learning, building, and growing every day 🚀",
+    currentlyExploring: "MCP (Model Context Protocol) for AI integrations",
+    openTo: ["Collaborations", "Work", "Open Source", "New Challenges"]
+};
+```
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
@@ -65,7 +82,14 @@
 
 <!-- Social Media Section -->
 ## 🌐 Connect with Me
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
 
 <div align="center">
   <a href="www.linkedin.com/in/acanojidev" target="_blank" ><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="LinkedIn"></a>
+</div>
+
+<div align="center">
+  "Code is like humor. When you have to explain it, it's bad." – Cory House
+  Thanks for visiting my profile! ⭐
 </div>
